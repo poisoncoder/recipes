@@ -1,0 +1,9 @@
+Ingredients:
+ - 1 maggi
+ - 1 maggi masala
+
+Directions:
+  1. Boil water
+  2. Put maggi
+  3. Put Maggi Masala
+  4. Cook for 2 min
